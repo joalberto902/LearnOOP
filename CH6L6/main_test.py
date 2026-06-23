@@ -1,4 +1,4 @@
-#from main import Sword
+from main import Sword
 
 TestCase = tuple[Sword, Sword, str | None, str | None]
 
